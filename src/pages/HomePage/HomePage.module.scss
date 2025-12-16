@@ -1,0 +1,16 @@
+.page {
+  display: grid;
+  gap: 12px;
+}
+
+.state {
+  padding: 16px;
+}
+
+.box {
+  background: #111;
+  color: #fff;
+  padding: 12px;
+  border-radius: 12px;
+  overflow: auto;
+}
